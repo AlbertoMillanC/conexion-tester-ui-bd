@@ -1,0 +1,9 @@
+id,nombre,categoria,cantidad,precio,valor_en_bodega
+1,Teclado mecanico,Perifericos,14,189000.00,2646000.00
+2,Mouse inalambrico,Perifericos,32,72000.00,2304000.00
+3,Monitor 24 pulgadas,Pantallas,8,640000.00,5120000.00
+4,Diadema con microfono,Audio,21,135000.00,2835000.00
+5,Disco solido 1 TB,Almacenamiento,11,395000.00,4345000.00
+6,Memoria RAM 16 GB,Componentes,17,280000.00,4760000.00
+7,Camara web HD,Video,6,158000.00,948000.00
+8,Base refrigerante,Accesorios,25,89000.00,2225000.00
